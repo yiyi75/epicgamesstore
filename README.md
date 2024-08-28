@@ -1,4 +1,5 @@
 # Epic Games Store Data Analysis (2008-2022)
+![Epic Games Store Year in Review][(https://i.postimg.cc/13h3fNN7/image0.jpg)]
 
 This repository contains a comprehensive analysis of the Epic Games Store dataset from 2008 to 2022. The purpose of this analysis is to explore various aspects of game pricing, release trends, and the factors influencing game performance and perceived value on the Epic Games platform. 
 
